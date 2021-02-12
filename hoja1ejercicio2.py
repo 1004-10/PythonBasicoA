@@ -1,5 +1,5 @@
 a = 3473
-b = 11
+
 
 def es_primo(num) :
 
@@ -13,4 +13,4 @@ def es_primo(num) :
             return True
         else:
             return False
-print(es_primo(27))                    
+print(es_primo(a))                    
