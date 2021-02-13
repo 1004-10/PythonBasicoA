@@ -11,4 +11,4 @@ else:
         group = "A"
     else:
         group = "B"
-print("Tu grupo es"+ group)                        
+print("Tu grupo es "+ group)                        
